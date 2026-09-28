@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 799,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Notebook",
+    "price": 60,
+    "category": "Stationery"
+  },
+  {
+    "id": 3,
+    "name": "Water Bottle",
+    "price": 250,
+    "category": "Accessories"
+  },
+  {
+    "id": 4,
+    "name": "laptop",
+    "price": 60000,
+    "category": "Electronics"
+  }
+]
